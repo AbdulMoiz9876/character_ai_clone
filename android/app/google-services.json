@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013683707890",
+    "project_id": "character-ai-clone-b94af",
+    "storage_bucket": "character-ai-clone-b94af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013683707890:android:78e39f8ef293932fa4d56b",
+        "android_client_info": {
+          "package_name": "com.example.character_ai_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg0e5cL_J7ZIMloZ-jZqUhL6lmLI4DBl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
